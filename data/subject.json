@@ -1,0 +1,10 @@
+{
+  "id": "x-ray-equipment",
+  "name": "محملين الاجهزة",
+  "platformTitle": "منصة QDU للاختبار التفاعلي",
+  "author": "مقتدى الكناني",
+  "contentVersion": "x-ray-equipment-1",
+  "enrichmentFiles": [
+    "enrichment.json"
+  ]
+}

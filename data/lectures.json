@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lecture-1",
+    "title": "X-Ray Machine System & Operating Console",
+    "number": "1",
+    "order": 1,
+    "icon": "📘"
+  },
+  {
+    "id": "lecture-2",
+    "title": "High-Voltage Generators, Rectification & X-Ray Circuits",
+    "number": "2",
+    "order": 2,
+    "icon": "📗"
+  },
+  {
+    "id": "lecture-3",
+    "title": "X-Ray Tube Components, Design & Failure Mechanisms",
+    "number": "3",
+    "order": 3,
+    "icon": "📙"
+  }
+]

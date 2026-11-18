@@ -1,0 +1,1707 @@
+[
+  {
+    "id": "lecture-1-q001",
+    "lectureId": "lecture-1",
+    "text": "What is another term for general radiography?",
+    "options": [
+      "Plain film radiography",
+      "Fluoroscopic radiography",
+      "Computed tomography"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q002",
+    "lectureId": "lecture-1",
+    "text": "What is the fundamental physical principle of diagnostic radiography?",
+    "options": [
+      "Uniform absorption of X-rays",
+      "Differential absorption of X-rays",
+      "Reflection of X-rays"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q003",
+    "lectureId": "lecture-1",
+    "text": "Why do body tissues absorb X-rays differently?",
+    "options": [
+      "Differences in atomic composition",
+      "Differences in tube voltage",
+      "Differences in exposure time"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q004",
+    "lectureId": "lecture-1",
+    "text": "What image is formed by X-rays emerging from the patient after exposure from a near-point source?",
+    "options": [
+      "Continuous motion image",
+      "Two-dimensional shadowgram",
+      "Three-dimensional volume"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q005",
+    "lectureId": "lecture-1",
+    "text": "What determines point brightness in a radiographic shadowgram?",
+    "options": [
+      "Remnant beam intensity",
+      "Source voltage alone",
+      "Filament current alone"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q006",
+    "lectureId": "lecture-1",
+    "text": "What is the main function of an X-ray machine?",
+    "options": [
+      "To measure absorbed tissue dose",
+      "To convert X-rays into electrons at the anode",
+      "To generate a controlled electron flow"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-1-q007",
+    "lectureId": "lecture-1",
+    "text": "Which is a non-medical application of X-ray equipment?",
+    "options": [
+      "Dental imaging",
+      "Material thickness measurement",
+      "Bone mineral density assessment"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q008",
+    "lectureId": "lecture-1",
+    "text": "Which component permits flexible positioning and precise beam aiming?",
+    "options": [
+      "Bucky tray",
+      "Radiographic tube suspension",
+      "Patient examination couch"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q009",
+    "lectureId": "lecture-1",
+    "text": "Why is carbon fiber preferred for examination couches?",
+    "options": [
+      "High strength and minimal X-ray absorption",
+      "High density and maximum X-ray absorption",
+      "Low strength and minimal X-ray transmission"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q010",
+    "lectureId": "lecture-1",
+    "text": "What is a desirable characteristic of the examination couch?",
+    "options": [
+      "Uniform thickness and high X-ray absorption",
+      "Uniform thickness and high X-ray transparency",
+      "Variable thickness and high attenuation"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q011",
+    "lectureId": "lecture-1",
+    "text": "Which components are housed in the Bucky tray beneath the examination couch?",
+    "options": [
+      "Cassette and anti-scatter grid",
+      "Cathode and anode",
+      "Voltmeter and exposure timer"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q012",
+    "lectureId": "lecture-1",
+    "text": "Which X-ray system is a high-power stationary unit?",
+    "options": [
+      "Fixed system",
+      "Portable system",
+      "Mobile system"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q013",
+    "lectureId": "lecture-1",
+    "text": "Which system is most suitable for bedside ward imaging?",
+    "options": [
+      "Mobile system",
+      "CT scanner",
+      "Fixed system"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q014",
+    "lectureId": "lecture-1",
+    "text": "Which system is compact, lightweight and hand-carried?",
+    "options": [
+      "Fixed system",
+      "Portable system",
+      "Mobile system"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q015",
+    "lectureId": "lecture-1",
+    "text": "Which system uses standard film-screen cassettes?",
+    "options": [
+      "CT scanner",
+      "Traditional analog system",
+      "Digital radiography"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q016",
+    "lectureId": "lecture-1",
+    "text": "Which imaging system uses flat-panel digital sensors?",
+    "options": [
+      "DEXA scanning",
+      "Digital radiography",
+      "Traditional analog radiography"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q017",
+    "lectureId": "lecture-1",
+    "text": "Which system produces cross-sectional 3D anatomical images?",
+    "options": [
+      "CT scanner",
+      "Film-screen radiography",
+      "Fluoroscopy"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q018",
+    "lectureId": "lecture-1",
+    "text": "Which system provides real-time continuous X-ray imaging in operating rooms?",
+    "options": [
+      "Traditional analog radiography",
+      "Fluoroscopy / C-arm",
+      "DEXA scanner"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q019",
+    "lectureId": "lecture-1",
+    "text": "Which systems are specialized for low-dose breast or dental imaging?",
+    "options": [
+      "CT / C-arm systems",
+      "Mammography / dental systems",
+      "DEXA / CT systems"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q020",
+    "lectureId": "lecture-1",
+    "text": "Which system measures bone mineral density using dual energy?",
+    "options": [
+      "DEXA scanner",
+      "Fluoroscopy unit",
+      "Digital radiography unit"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q021",
+    "lectureId": "lecture-1",
+    "text": "Which are the three principal parts of an X-ray machine?",
+    "options": [
+      "Cathode, anode and focusing cup",
+      "Console, high-voltage generator and X-ray tube assembly",
+      "Couch, grid and cassette"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q022",
+    "lectureId": "lecture-1",
+    "text": "Where is the operating console usually located?",
+    "options": [
+      "Inside the tube envelope",
+      "Behind a protective lead barrier",
+      "Directly beneath the couch"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q023",
+    "lectureId": "lecture-1",
+    "text": "Which component converts low line voltage into high kilovoltage?",
+    "options": [
+      "Operating console",
+      "Bucky tray",
+      "High-voltage generator"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-1-q024",
+    "lectureId": "lecture-1",
+    "text": "Which assembly houses the cathode and anode in a glass or metal vacuum envelope?",
+    "options": [
+      "Operating console",
+      "X-ray tube assembly",
+      "High-voltage generator"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q025",
+    "lectureId": "lecture-1",
+    "text": "The operating console is electrically connected to which assembly?",
+    "options": [
+      "Generator assembly",
+      "Tube suspension assembly",
+      "Bucky tray assembly"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q026",
+    "lectureId": "lecture-1",
+    "text": "Why is line voltage compensation necessary when hospital power consumption varies?",
+    "options": [
+      "To stabilize X-ray output",
+      "To regulate focal spot size",
+      "To terminate exposure at a selected density"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q027",
+    "lectureId": "lecture-1",
+    "text": "Which instrument measures incoming line voltage?",
+    "options": [
+      "mA meter",
+      "Voltmeter",
+      "Photodiode"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q028",
+    "lectureId": "lecture-1",
+    "text": "To which voltage is automatic line compensation adjusted in the lecture?",
+    "options": [
+      "440 V",
+      "220 V",
+      "110 V"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q029",
+    "lectureId": "lecture-1",
+    "text": "Which factor primarily controls X-ray beam quality?",
+    "options": [
+      "mAs",
+      "kVp",
+      "Exposure time"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q030",
+    "lectureId": "lecture-1",
+    "text": "Increasing kVp produces which type of X-rays?",
+    "options": [
+      "Longer wavelength, lower penetrability",
+      "Shorter wavelength, greater penetrability",
+      "Longer wavelength, greater penetrability"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q031",
+    "lectureId": "lecture-1",
+    "text": "Which component provides major and minor kVp selection taps?",
+    "options": [
+      "Rectifier unit",
+      "Filament step-down transformer",
+      "Autotransformer"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-1-q032",
+    "lectureId": "lecture-1",
+    "text": "Which factor regulates thermionic emission by controlling filament temperature?",
+    "options": [
+      "kVp",
+      "mA",
+      "Exposure time"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q033",
+    "lectureId": "lecture-1",
+    "text": "Which factor best expresses total X-ray quantity?",
+    "options": [
+      "kVp",
+      "Line voltage",
+      "mAs"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-1-q034",
+    "lectureId": "lecture-1",
+    "text": "What is the mAs for an exposure of 400 mA for 0.1 s?",
+    "options": [
+      "40 mAs",
+      "400 mAs",
+      "4 mAs"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q035",
+    "lectureId": "lecture-1",
+    "text": "What does the exposure timer control?",
+    "options": [
+      "Energy of individual photons",
+      "Duration of high-voltage application",
+      "Temperature of the cathode filament"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q036",
+    "lectureId": "lecture-1",
+    "text": "What is the approximate exposure time used in general radiography?",
+    "options": [
+      "10 s",
+      "100 ms",
+      "1 s"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q037",
+    "lectureId": "lecture-1",
+    "text": "What is the typical high tube current range in general radiography?",
+    "options": [
+      "20–100 mA",
+      "200–1000 mA",
+      "3–5 mA"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q038",
+    "lectureId": "lecture-1",
+    "text": "Which technique helps prevent patient motion artifacts?",
+    "options": [
+      "Long exposure time with low tube current",
+      "Short exposure time with high tube current",
+      "Long exposure time with high tube current"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q039",
+    "lectureId": "lecture-1",
+    "text": "Which timer uses a spring-wound clockwork mechanism and has low precision?",
+    "options": [
+      "Mechanical timer",
+      "Synchronous timer",
+      "Electronic timer"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q040",
+    "lectureId": "lecture-1",
+    "text": "Which timer uses a motor running at 60 revolutions per second?",
+    "options": [
+      "mAs timer",
+      "Synchronous timer",
+      "Mechanical timer"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q041",
+    "lectureId": "lecture-1",
+    "text": "What is the minimum exposure time of the synchronous timer?",
+    "options": [
+      "1/6 s",
+      "1/60 s",
+      "1/120 s"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q042",
+    "lectureId": "lecture-1",
+    "text": "Which highly accurate timer uses a capacitor charged through a variable resistor?",
+    "options": [
+      "Synchronous timer",
+      "Electronic timer",
+      "Mechanical timer"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q043",
+    "lectureId": "lecture-1",
+    "text": "Which timer on the secondary side of the HV transformer stops exposure at the selected mAs?",
+    "options": [
+      "mAs timer",
+      "Synchronous timer",
+      "AEC phototimer"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-1-q044",
+    "lectureId": "lecture-1",
+    "text": "Which device measures radiation reaching the image receptor in AEC?",
+    "options": [
+      "Voltmeter or rheostat",
+      "Ionization chamber or photodiode",
+      "Autotransformer or rectifier"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-1-q045",
+    "lectureId": "lecture-1",
+    "text": "When does the AEC automatically terminate exposure?",
+    "options": [
+      "When the maximum kVp is reached",
+      "When adequate optical density is achieved",
+      "When the filament reaches peak temperature"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q046",
+    "lectureId": "lecture-2",
+    "text": "What is the primary function of the high-voltage generator?",
+    "options": [
+      "To decrease tube voltage to filament voltage only",
+      "To convert X-rays into electrical signals",
+      "To convert low-voltage power into high-voltage potential"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q047",
+    "lectureId": "lecture-2",
+    "text": "What is the incoming AC voltage range stated for the HVG?",
+    "options": [
+      "30–150 VAC",
+      "120–440 VAC",
+      "10–12 VAC"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q048",
+    "lectureId": "lecture-2",
+    "text": "What is the typical medical imaging high-voltage range?",
+    "options": [
+      "30–150 kVp",
+      "10–12 kVp",
+      "100–400 kVp"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q049",
+    "lectureId": "lecture-2",
+    "text": "On which principle do transformers operating with AC depend?",
+    "options": [
+      "Electromagnetic induction",
+      "Electrostatic repulsion",
+      "Thermionic emission"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q050",
+    "lectureId": "lecture-2",
+    "text": "Which transformer operates on self-induction?",
+    "options": [
+      "Autotransformer",
+      "Filament step-down transformer",
+      "High-voltage step-up transformer"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q051",
+    "lectureId": "lecture-2",
+    "text": "How is the autotransformer constructed?",
+    "options": [
+      "Single winding around an iron core",
+      "Two windings with fewer secondary turns",
+      "Two windings with more secondary turns"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q052",
+    "lectureId": "lecture-2",
+    "text": "What type of voltage adjustment does the autotransformer provide?",
+    "options": [
+      "Fixed high-voltage DC output",
+      "Variable step-up and step-down voltage",
+      "Fixed low-voltage DC output"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q053",
+    "lectureId": "lecture-2",
+    "text": "Which circuits receive variable low voltage from the autotransformer?",
+    "options": [
+      "Secondary circuit and anode only",
+      "Filament circuit and primary side of the step-up transformer",
+      "Rectifier circuit and mA meter only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q054",
+    "lectureId": "lecture-2",
+    "text": "Why is voltage adjusted before it is boosted to kilovolt levels?",
+    "options": [
+      "It increases filament vaporization",
+      "It eliminates the need for rectification",
+      "Low-potential adjustment is safer and easier"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q055",
+    "lectureId": "lecture-2",
+    "text": "Which selectors represent two series of autotransformer taps?",
+    "options": [
+      "mA and mAs selectors",
+      "Major and minor kVp selectors",
+      "AEC and timer selectors"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q056",
+    "lectureId": "lecture-2",
+    "text": "What is the example output range of an autotransformer with 220 V input?",
+    "options": [
+      "100–400 V",
+      "30–150 V",
+      "10–12 V"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q057",
+    "lectureId": "lecture-2",
+    "text": "Which transformer operates on mutual induction with more secondary turns?",
+    "options": [
+      "Filament step-down transformer",
+      "High-voltage step-up transformer",
+      "Autotransformer"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q058",
+    "lectureId": "lecture-2",
+    "text": "What is the typical turns ratio of a high-voltage step-up transformer?",
+    "options": [
+      "50:1–100:1",
+      "500:1–1000:1",
+      "1:500–1:1000"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q059",
+    "lectureId": "lecture-2",
+    "text": "Which equation represents the transformer turns ratio?",
+    "options": [
+      "VS × VP = NS / NP",
+      "VS / VP = NS / NP",
+      "VS / VP = NP / NS"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q060",
+    "lectureId": "lecture-2",
+    "text": "If a step-up transformer has a ratio of 500:1 and 200 V input, what is the output?",
+    "options": [
+      "100 kV",
+      "200 kV",
+      "40 kV"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q061",
+    "lectureId": "lecture-2",
+    "text": "How does current change as voltage increases in a step-up transformer?",
+    "options": [
+      "It increases proportionately",
+      "It decreases proportionately",
+      "It remains constant"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q062",
+    "lectureId": "lecture-2",
+    "text": "In which units are primary and secondary voltages of the HV transformer expressed?",
+    "options": [
+      "Amperes and volts, respectively",
+      "Volts and kilovolts, respectively",
+      "Kilovolts and volts, respectively"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q063",
+    "lectureId": "lecture-2",
+    "text": "Why does the X-ray tube require direct current?",
+    "options": [
+      "To maintain electron flow from cathode to anode",
+      "To maintain alternating electron flow",
+      "To reverse electron flow during each half-cycle"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q064",
+    "lectureId": "lecture-2",
+    "text": "What is the process of converting AC into DC called?",
+    "options": [
+      "Transformation",
+      "Rectification",
+      "Compensation"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q065",
+    "lectureId": "lecture-2",
+    "text": "Which two-electrode device is used for solid-state rectification?",
+    "options": [
+      "Diode",
+      "Rheostat",
+      "Capacitor"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q066",
+    "lectureId": "lecture-2",
+    "text": "How many diodes may be used in half-wave rectification according to the lecture?",
+    "options": [
+      "4–6",
+      "0–2",
+      "6–12"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q067",
+    "lectureId": "lecture-2",
+    "text": "Why is half-wave rectification inefficient?",
+    "options": [
+      "Both half-cycles maintain a constant tube potential",
+      "Negative half-cycles are blocked, creating long exposure gaps",
+      "Negative half-cycles become positive, increasing pulse rate"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q068",
+    "lectureId": "lecture-2",
+    "text": "How many pulses per second are produced by half-wave rectification?",
+    "options": [
+      "360",
+      "60",
+      "120"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q069",
+    "lectureId": "lecture-2",
+    "text": "What is the minimum number of diodes in a full-wave bridge circuit?",
+    "options": [
+      "2",
+      "4",
+      "6"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q070",
+    "lectureId": "lecture-2",
+    "text": "What happens to the negative half-cycle in full-wave rectification?",
+    "options": [
+      "It is reversed into a positive half-cycle",
+      "It is blocked completely",
+      "It is transmitted unchanged"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q071",
+    "lectureId": "lecture-2",
+    "text": "How many pulses per second are produced by full-wave rectification?",
+    "options": [
+      "120",
+      "720",
+      "60"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q072",
+    "lectureId": "lecture-2",
+    "text": "What is the voltage ripple of both half-wave and full-wave single-phase rectification?",
+    "options": [
+      "3–4%",
+      "100%",
+      "13%"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q073",
+    "lectureId": "lecture-2",
+    "text": "What does voltage ripple represent?",
+    "options": [
+      "Percentage variation between mA and mAs",
+      "Percentage variation between peak and minimum voltage",
+      "Percentage variation between primary and secondary turns"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q074",
+    "lectureId": "lecture-2",
+    "text": "What is the main disadvantage of high voltage ripple?",
+    "options": [
+      "Reduced low-energy photon production",
+      "Increased mean photon energy",
+      "Reduced beam quality and efficiency"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q075",
+    "lectureId": "lecture-2",
+    "text": "Which generator is associated with low diagnostic value and high dose from soft rays?",
+    "options": [
+      "High-frequency",
+      "Single-phase (1-pulse)",
+      "Three-phase (12-pulse)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q076",
+    "lectureId": "lecture-2",
+    "text": "Which generator is commonly used in low-power dental units?",
+    "options": [
+      "Three-phase (6-pulse)",
+      "Single-phase (2-pulse)",
+      "Three-phase (12-pulse)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q077",
+    "lectureId": "lecture-2",
+    "text": "Which generator produces 360 pulses/sec with 13% ripple and never drops to zero voltage?",
+    "options": [
+      "Three-phase (12-pulse)",
+      "Three-phase (6-pulse)",
+      "Single-phase (2-pulse)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q078",
+    "lectureId": "lecture-2",
+    "text": "Which generator produces 720 pulses per second?",
+    "options": [
+      "Three-phase (12-pulse)",
+      "Single-phase (2-pulse)",
+      "Three-phase (6-pulse)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q079",
+    "lectureId": "lecture-2",
+    "text": "What is the voltage ripple of a three-phase 12-pulse generator?",
+    "options": [
+      "3–4%",
+      "100%",
+      "13%"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q080",
+    "lectureId": "lecture-2",
+    "text": "What is a disadvantage of the three-phase 12-pulse generator?",
+    "options": [
+      "Expensive installation",
+      "Long exposure gaps",
+      "100% voltage ripple"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q081",
+    "lectureId": "lecture-2",
+    "text": "What is the operating frequency range of a high-frequency generator?",
+    "options": [
+      "60–120 Hz",
+      "500–50,000 Hz",
+      "360–720 Hz"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q082",
+    "lectureId": "lecture-2",
+    "text": "Which generator has nearly constant potential and voltage ripple below 3% (often <1%)?",
+    "options": [
+      "Three-phase 6-pulse generator",
+      "High-frequency generator",
+      "Single-phase 2-pulse generator"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q083",
+    "lectureId": "lecture-2",
+    "text": "Why do high-frequency generators reduce patient skin dose?",
+    "options": [
+      "They increase voltage ripple",
+      "They produce minimal low-energy soft radiation",
+      "They increase low-energy photon absorption"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q084",
+    "lectureId": "lecture-2",
+    "text": "Which generator combines compact size with ultra-short exposures and longer tube life?",
+    "options": [
+      "High-frequency generator",
+      "Three-phase 12-pulse generator",
+      "Single-phase 1-pulse generator"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q085",
+    "lectureId": "lecture-2",
+    "text": "Which low-voltage circuit contains the power switch, fuses, autotransformer and exposure timer?",
+    "options": [
+      "Filament circuit",
+      "Primary circuit",
+      "Secondary circuit"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q086",
+    "lectureId": "lecture-2",
+    "text": "Which component reduces voltage to 10–12 V and increases current to 3–5 A?",
+    "options": [
+      "Filament step-down transformer",
+      "Rectifier unit",
+      "High-voltage step-up transformer"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-2-q087",
+    "lectureId": "lecture-2",
+    "text": "Which selector is used to regulate heating of the cathode filament?",
+    "options": [
+      "Exposure timer",
+      "Rheostat mA selector",
+      "Major kVp selector"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q088",
+    "lectureId": "lecture-2",
+    "text": "Which circuit contains the rectifier, mA meter and X-ray tube?",
+    "options": [
+      "Primary circuit",
+      "Filament circuit",
+      "Secondary circuit"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-2-q089",
+    "lectureId": "lecture-2",
+    "text": "What is the secondary circuit voltage range stated in the lecture?",
+    "options": [
+      "10–12 V",
+      "40–150 kVp",
+      "120–440 V"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q090",
+    "lectureId": "lecture-2",
+    "text": "Which waveform improves tissue penetration through higher mean photon energy?",
+    "options": [
+      "High-ripple waveform",
+      "Low-ripple waveform",
+      "Half-wave waveform"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-2-q091",
+    "lectureId": "lecture-2",
+    "text": "How does near constant-potential operation help prevent motion unsharpness?",
+    "options": [
+      "It decreases photon output per unit time",
+      "It allows shorter exposure times",
+      "It increases exposure gaps"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q092",
+    "lectureId": "lecture-3",
+    "text": "Which electrode is the primary electron source in an X-ray tube?",
+    "options": [
+      "Tube window",
+      "Anode",
+      "Cathode"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q093",
+    "lectureId": "lecture-3",
+    "text": "Which two structures form the cathode assembly?",
+    "options": [
+      "Glass envelope and tube window",
+      "Filament coil and focusing cup",
+      "Target disk and rotor"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q094",
+    "lectureId": "lecture-3",
+    "text": "What are the approximate diameter and length of the filament coil?",
+    "options": [
+      "5 mm and 3–5 cm",
+      "2 mm and 1–2 cm",
+      "2 cm and 1–2 mm"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q095",
+    "lectureId": "lecture-3",
+    "text": "Which material is commonly used for the cathode filament?",
+    "options": [
+      "Thoriated tungsten",
+      "Copper",
+      "Tungsten-rhenium alloy"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q096",
+    "lectureId": "lecture-3",
+    "text": "What percentage of thorium is alloyed with tungsten in the filament?",
+    "options": [
+      "5–10%",
+      "1–2%",
+      "10%"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q097",
+    "lectureId": "lecture-3",
+    "text": "What is the melting point of tungsten according to the lecture?",
+    "options": [
+      "4410°C",
+      "3410°C",
+      "2410°C"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q098",
+    "lectureId": "lecture-3",
+    "text": "Which property of tungsten helps prevent tube gassiness and internal plating?",
+    "options": [
+      "Low thermal vaporization rate",
+      "Low melting point",
+      "High thermal vaporization rate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q099",
+    "lectureId": "lecture-3",
+    "text": "What is the approximate filament current required for thermionic emission?",
+    "options": [
+      "40 A or higher",
+      "4 A or higher",
+      "4 mA or higher"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q100",
+    "lectureId": "lecture-3",
+    "text": "What is thermionic emission?",
+    "options": [
+      "Emission of X-rays through the tube window",
+      "Absorption of electrons by the focusing cup",
+      "Ejection of electrons from a heated filament"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q101",
+    "lectureId": "lecture-3",
+    "text": "Why is thorium added to the tungsten filament?",
+    "options": [
+      "To increase thermal vaporization",
+      "To improve thermionic emission and extend tube life",
+      "To increase X-ray absorption in the target"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q102",
+    "lectureId": "lecture-3",
+    "text": "Why do emitted electrons naturally diverge?",
+    "options": [
+      "Electromagnetic induction",
+      "Electrostatic repulsion",
+      "Target self-absorption"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q103",
+    "lectureId": "lecture-3",
+    "text": "What is the electrical charge of the focusing cup?",
+    "options": [
+      "Positive",
+      "Negative",
+      "Neutral"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q104",
+    "lectureId": "lecture-3",
+    "text": "What is the main function of the focusing cup?",
+    "options": [
+      "To absorb leakage radiation",
+      "To compress the electron stream toward the focal spot",
+      "To dissipate heat from the anode disk"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q105",
+    "lectureId": "lecture-3",
+    "text": "Which focal spot is best for imaging fine anatomical structures?",
+    "options": [
+      "Small focal spot",
+      "Large focal spot",
+      "Actual focal spot only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q106",
+    "lectureId": "lecture-3",
+    "text": "Which filament accommodates higher heat loading for larger anatomical regions?",
+    "options": [
+      "Both filaments equally",
+      "Large filament",
+      "Small filament"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q107",
+    "lectureId": "lecture-3",
+    "text": "What is the main function of the anode?",
+    "options": [
+      "To focus electrons by electrostatic repulsion",
+      "To act as the positive electron impact target",
+      "To emit electrons by thermionic emission"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q108",
+    "lectureId": "lecture-3",
+    "text": "Which anode is most suitable for low-power dental systems?",
+    "options": [
+      "Rotating anode",
+      "High-speed rotating anode",
+      "Stationary anode"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q109",
+    "lectureId": "lecture-3",
+    "text": "Which anode is essential for general radiography with intense heat loads?",
+    "options": [
+      "Stationary anode",
+      "Rotating anode",
+      "Fixed dental anode"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q110",
+    "lectureId": "lecture-3",
+    "text": "Which motor rotates the anode disk?",
+    "options": [
+      "Induction motor",
+      "Mechanical clockwork motor",
+      "Synchronous timer motor"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q111",
+    "lectureId": "lecture-3",
+    "text": "What are the standard and high-load anode rotational speeds, respectively?",
+    "options": [
+      "~500 RPM and >1,000 RPM",
+      "~3,200 RPM and >5,000 RPM",
+      "~5,000 RPM and >32,000 RPM"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q112",
+    "lectureId": "lecture-3",
+    "text": "Why does a rotating anode withstand higher heat loads?",
+    "options": [
+      "Heat is distributed over a revolving track",
+      "Heat is concentrated at one point",
+      "Electron kinetic energy is completely converted into X-rays"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q113",
+    "lectureId": "lecture-3",
+    "text": "What is the atomic number of tungsten?",
+    "options": [
+      "74",
+      "42",
+      "29"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q114",
+    "lectureId": "lecture-3",
+    "text": "Which property of tungsten improves X-ray production efficiency and mean photon energy?",
+    "options": [
+      "Low thermal conductivity",
+      "High atomic number",
+      "Low melting point"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q115",
+    "lectureId": "lecture-3",
+    "text": "Which property of the tungsten target allows rapid heat dissipation?",
+    "options": [
+      "High vaporization rate",
+      "High thermal conductivity",
+      "Low thermal conductivity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q116",
+    "lectureId": "lecture-3",
+    "text": "What percentages of electron kinetic energy become heat and X-rays, respectively?",
+    "options": [
+      ">99% and <1%",
+      "50% and 50%",
+      "<1% and >99%"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q117",
+    "lectureId": "lecture-3",
+    "text": "Why is tungsten's high melting point important in the target?",
+    "options": [
+      "It helps withstand high tube currents without melting or pitting",
+      "It decreases the thermal capacity of the target",
+      "It increases electron repulsion in the cathode"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q118",
+    "lectureId": "lecture-3",
+    "text": "What percentage of rhenium is typically added to the tungsten target?",
+    "options": [
+      "1–2%",
+      "10%",
+      "25%"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q119",
+    "lectureId": "lecture-3",
+    "text": "Why is rhenium alloyed with tungsten in the anode target?",
+    "options": [
+      "To reduce the atomic number of the target",
+      "To increase mechanical strength under thermal stress",
+      "To enhance thermionic emission from the filament"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q120",
+    "lectureId": "lecture-3",
+    "text": "What is the typical target angle in the line focus principle?",
+    "options": [
+      "24°",
+      "12°",
+      "45°"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q121",
+    "lectureId": "lecture-3",
+    "text": "How do the actual and effective focal spots differ?",
+    "options": [
+      "Both refer to the projected spot only",
+      "Actual is bombarded; effective is projected",
+      "Actual is projected; effective is bombarded"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q122",
+    "lectureId": "lecture-3",
+    "text": "What is the main advantage of the line focus principle?",
+    "options": [
+      "Large heat dissipation area with a small effective focal spot",
+      "Large effective focal spot with reduced image sharpness",
+      "Small heat dissipation area with a large effective focal spot"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q123",
+    "lectureId": "lecture-3",
+    "text": "For the same actual focal spot, which target angle gives a smaller effective focal spot?",
+    "options": [
+      "Both angles give the same size",
+      "12°",
+      "24°"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q124",
+    "lectureId": "lecture-3",
+    "text": "Why is X-ray intensity reduced on the anode side?",
+    "options": [
+      "Electrons are emitted more slowly on the anode side",
+      "Photons travel through more tungsten",
+      "Photons travel through less tungsten"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q125",
+    "lectureId": "lecture-3",
+    "text": "What are the approximate cathode-side and anode-side intensities relative to the central ray?",
+    "options": [
+      "100% and 100%",
+      "120% and 80%",
+      "80% and 120%"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q126",
+    "lectureId": "lecture-3",
+    "text": "Which side of the tube should be positioned over thicker or denser anatomy?",
+    "options": [
+      "Both sides have equal intensity",
+      "Anode side",
+      "Cathode side"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q127",
+    "lectureId": "lecture-3",
+    "text": "What is the main function of the traditional Pyrex glass envelope?",
+    "options": [
+      "To control the exposure duration",
+      "To absorb backward scatter at the grid",
+      "To maintain a high vacuum"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q128",
+    "lectureId": "lecture-3",
+    "text": "What causes arcing in an aging glass-envelope tube?",
+    "options": [
+      "Vaporized tungsten coating the glass",
+      "Insulating oil cooling the housing",
+      "Rhenium strengthening the target"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q129",
+    "lectureId": "lecture-3",
+    "text": "Why are metal envelopes used in modern high-output tubes?",
+    "options": [
+      "To reduce electrical insulation",
+      "To maintain constant electric potential and extend tube life",
+      "To increase tungsten deposition on glass"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q130",
+    "lectureId": "lecture-3",
+    "text": "What is the approximate area of the thin window that permits X-ray emission with minimal absorption?",
+    "options": [
+      "5 cm²",
+      "12 cm²",
+      "2 cm²"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q131",
+    "lectureId": "lecture-3",
+    "text": "Which structure limits leakage radiation and protects against electrical and mechanical shock?",
+    "options": [
+      "Tungsten target",
+      "Lead-lined protective housing",
+      "Focusing cup"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q132",
+    "lectureId": "lecture-3",
+    "text": "What is the stated maximum leakage radiation at 1 meter?",
+    "options": [
+      "100 mR/hr",
+      "10 mR/hr",
+      "1000 mR/hr"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q133",
+    "lectureId": "lecture-3",
+    "text": "What is the function of the insulating oil in the housing?",
+    "options": [
+      "Thermionic emission and beam focusing",
+      "Electrical insulation and thermal dissipation",
+      "Rectification and voltage selection"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q134",
+    "lectureId": "lecture-3",
+    "text": "What causes housing cracking during overheating?",
+    "options": [
+      "Contraction of dielectric oil increases vacuum",
+      "Expansion of internal air and dielectric oil increases pressure",
+      "Reduced anode rotation increases photon energy"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q135",
+    "lectureId": "lecture-3",
+    "text": "Which fault causes oil leakage, reduced cooling and lowered electrical insulation?",
+    "options": [
+      "Filament failure",
+      "Housing cracking",
+      "Anode heel effect"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q136",
+    "lectureId": "lecture-3",
+    "text": "Which measure helps prevent housing cracking?",
+    "options": [
+      "Use a higher tube current",
+      "Inspect oil bellows and observe heat storage limits",
+      "Increase filament boost time"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q137",
+    "lectureId": "lecture-3",
+    "text": "What is a common cause of excessive radiation leakage?",
+    "options": [
+      "Damaged lead shielding or cracked housing",
+      "Worn filament coil only",
+      "Reduced anode angle only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q138",
+    "lectureId": "lecture-3",
+    "text": "What should be done when tube housing shielding is compromised?",
+    "options": [
+      "Replace the compromised housing immediately",
+      "Increase tube voltage",
+      "Increase filament current"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q139",
+    "lectureId": "lecture-3",
+    "text": "What causes loss of vacuum in a glass-envelope tube?",
+    "options": [
+      "Reduced rhenium content in the target",
+      "Different thermal expansion of glass and metal",
+      "Short exposure time with low heat loading"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q140",
+    "lectureId": "lecture-3",
+    "text": "What is an operational result of a gassy tube?",
+    "options": [
+      "Secondary electron collisions and unpredictable X-ray production",
+      "Improved electrical insulation and cooling",
+      "Increased electron speed and stable output"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q141",
+    "lectureId": "lecture-3",
+    "text": "Which measure helps prevent loss of vacuum?",
+    "options": [
+      "Increase target angle",
+      "Use metal envelopes or alloys matched to Pyrex expansion",
+      "Increase pre-exposure filament boost time"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q142",
+    "lectureId": "lecture-3",
+    "text": "What is the primary cause of filament vaporization?",
+    "options": [
+      "Routine anode warm-up",
+      "Excessive filament heating during prolonged boost time",
+      "Low tube current with short boost time"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q143",
+    "lectureId": "lecture-3",
+    "text": "Which fault can cause complete loss of exposure capability through wire breakage?",
+    "options": [
+      "Housing cracking",
+      "Filament failure",
+      "Anode target pitting"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q144",
+    "lectureId": "lecture-3",
+    "text": "Which measure helps prevent filament failure?",
+    "options": [
+      "Minimize boost time and use thoriated tungsten",
+      "Increase boost time and use pure tungsten",
+      "Increase tube current and reduce cooling"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q145",
+    "lectureId": "lecture-3",
+    "text": "What causes anode target kinking and pitting?",
+    "options": [
+      "Proper use of anode warm-up protocols",
+      "Low filament temperature and short boost time",
+      "Severe thermal stress and localized melting"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "lecture-3-q146",
+    "lectureId": "lecture-3",
+    "text": "Which effect is associated with anode target damage?",
+    "options": [
+      "Target self-absorption and decreased X-ray output",
+      "Increased X-ray output and reduced scatter",
+      "Improved anode angle and image sharpness"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q147",
+    "lectureId": "lecture-3",
+    "text": "Which measure helps prevent anode target damage?",
+    "options": [
+      "Prolong filament boost and increase mA",
+      "Use expansion slits, a larger focal spot and lower power",
+      "Use a smaller focal spot and higher power"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q148",
+    "lectureId": "lecture-3",
+    "text": "After how long of inactivity is anode warm-up required to prevent thermal-shock cracking?",
+    "options": [
+      "20 minutes or more",
+      "2 hours or more",
+      "12 hours only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q149",
+    "lectureId": "lecture-3",
+    "text": "Which technique preserves filament integrity while maintaining the required mAs?",
+    "options": [
+      "Lower mA with slightly longer exposure time",
+      "Lower mA with shorter exposure time",
+      "Higher mA with the same exposure time"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q150",
+    "lectureId": "lecture-3",
+    "text": "Which charts specify single-exposure and cumulative anode heat limits?",
+    "options": [
+      "Voltage ripple charts",
+      "Tube rating charts",
+      "Rectification waveform charts"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q151",
+    "lectureId": "lecture-3",
+    "text": "Which equation represents basic heat units (HU)?",
+    "options": [
+      "kVp × mA × time (s)",
+      "mA × time (s) / kVp",
+      "kVp × mA / time (s)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "lecture-3-q152",
+    "lectureId": "lecture-3",
+    "text": "What is the generator correction factor for a single-phase unit?",
+    "options": [
+      "1.35",
+      "1.0",
+      "1.41"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q153",
+    "lectureId": "lecture-3",
+    "text": "What is the correction factor for a three-phase 6-pulse generator?",
+    "options": [
+      "1.41",
+      "1.35",
+      "1.0"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q154",
+    "lectureId": "lecture-3",
+    "text": "What is the correction factor for a high-frequency generator?",
+    "options": [
+      "1.0",
+      "1.41",
+      "1.35"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "lecture-3-q155",
+    "lectureId": "lecture-3",
+    "text": "How many heat units are produced at 80 kVp, 200 mA and 0.5 s using a high-frequency generator?",
+    "options": [
+      "11,280 HU",
+      "10,800 HU",
+      "8,000 HU"
+    ],
+    "correct": 0
+  }
+]
